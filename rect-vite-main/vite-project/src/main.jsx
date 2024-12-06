@@ -14,7 +14,7 @@ const root = createRoot(rootElement);
 // Renderiza la aplicación
 root.render(
   <StrictMode>
-    <BrowserRouter basename="/rect-vite-main">
+    <BrowserRouter basename="/rect-vite">
     <App />
     </BrowserRouter>
   </StrictMode>
